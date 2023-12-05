@@ -83,7 +83,7 @@ public class GameManager : MonoBehaviour
 
     public void LoadLevel1()
     {
-        SceneManager.LoadScene(levelName);
+        SceneManager.LoadScene("CENALOUCA");
     }
     
     public void LoadLevel2()
